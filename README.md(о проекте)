@@ -8,7 +8,7 @@
 
 ## ⚡ Быстрый старт
 
-### Простой запуск
+### Простой запуск И установка
 1. git clone https://github.com/dariakravchenko04/test_folder.git
 2.cd test_folder
 3. python -m venv venv
