@@ -9,5 +9,8 @@
 ## ⚡ Быстрый старт
 
 ### Простой запуск
-python -m venv venv
-venv\Scripts\activate
+1. git clone https://github.com/dariakravchenko04/test_folder.git
+2.cd test_folder
+3. python -m venv venv
+4.venv\Scripts\activate
+5. python main.py
