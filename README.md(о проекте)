@@ -8,8 +8,6 @@
 
 ## ⚡ Быстрый старт
 
-### Способ 1: Простой запуск
-1. Скачайте файл `src/password_generator.py`
-2. Запустите в командной строке:
-   ```bash
-   python password_generator.py
+### Простой запуск
+python -m venv venv
+venv\Scripts\activate
