@@ -1,0 +1,14 @@
+# Парсер кейсов VK Ads
+
+Парсер для сбора бизнес-кейсов с сайта ads.vk.com/cases
+
+## Функциональность
+- Собирает названия кейсов
+- Извлекает ссылки на полные версии
+- Получает даты публикации
+- Возвращает данные в виде списка словарей
+
+## Установка
+git clone https://github.com/dariakravchenko04/parser.git
+cd vk-parser
+pip install -r requirements.txt
