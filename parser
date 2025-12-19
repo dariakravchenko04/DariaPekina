@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Парсер кейсов VK Ads
 
 #Парсер для сбора бизнес-кейсов с сайта ads.vk.com/cases
@@ -10,5 +11,6 @@
 
 ## Установка
 git clone https://github.com/dariakravchenko04/parser.git
-cd vk-parser
+cd DariaPekina
 pip install -r requirements.txt
+python parser.py
