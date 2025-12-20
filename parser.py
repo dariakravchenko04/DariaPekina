@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Подключаем библиотеку requests для работы с интернет-запросами
 import requests
 # Подключаем BeautifulSoup для анализа HTML-кода
